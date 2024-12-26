@@ -1,0 +1,14 @@
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\bin\Debug\net8.0\AdapterPattern.exe
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\bin\Debug\net8.0\AdapterPattern.deps.json
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\bin\Debug\net8.0\AdapterPattern.runtimeconfig.json
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\bin\Debug\net8.0\AdapterPattern.dll
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\bin\Debug\net8.0\AdapterPattern.pdb
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\obj\Debug\net8.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\obj\Debug\net8.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\obj\Debug\net8.0\AdapterPattern.dll
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\obj\Debug\net8.0\refint\AdapterPattern.dll
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\obj\Debug\net8.0\AdapterPattern.pdb
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\obj\Debug\net8.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\besho\source\repos\Structural_Design_Pattern\Structural_Design_Pattern\obj\Debug\net8.0\ref\AdapterPattern.dll

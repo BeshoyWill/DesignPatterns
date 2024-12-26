@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "Structural_Design_Pattern\AdapterPattern.csproj", "{BA99BA89-7FC2-4F96-8D3F-6DD4B2142647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{F5BA3D5D-6F9B-463A-AAD0-F71FA2967D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{2E81AE98-B297-4764-BABB-373CC20CC7D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{733E0AA7-E3D8-4376-A481-48F530FC0BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{334312A3-E5F5-4A8C-979C-252CDA573D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{9FDCDE34-A95A-46CF-8F39-138DD3EB9C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{FF7AD57B-6C2E-4DDB-8A8E-B4830412998B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA99BA89-7FC2-4F96-8D3F-6DD4B2142647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA99BA89-7FC2-4F96-8D3F-6DD4B2142647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA99BA89-7FC2-4F96-8D3F-6DD4B2142647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA99BA89-7FC2-4F96-8D3F-6DD4B2142647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BA3D5D-6F9B-463A-AAD0-F71FA2967D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BA3D5D-6F9B-463A-AAD0-F71FA2967D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BA3D5D-6F9B-463A-AAD0-F71FA2967D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BA3D5D-6F9B-463A-AAD0-F71FA2967D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E81AE98-B297-4764-BABB-373CC20CC7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E81AE98-B297-4764-BABB-373CC20CC7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E81AE98-B297-4764-BABB-373CC20CC7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E81AE98-B297-4764-BABB-373CC20CC7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733E0AA7-E3D8-4376-A481-48F530FC0BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733E0AA7-E3D8-4376-A481-48F530FC0BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733E0AA7-E3D8-4376-A481-48F530FC0BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733E0AA7-E3D8-4376-A481-48F530FC0BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334312A3-E5F5-4A8C-979C-252CDA573D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334312A3-E5F5-4A8C-979C-252CDA573D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334312A3-E5F5-4A8C-979C-252CDA573D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334312A3-E5F5-4A8C-979C-252CDA573D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDCDE34-A95A-46CF-8F39-138DD3EB9C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDCDE34-A95A-46CF-8F39-138DD3EB9C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDCDE34-A95A-46CF-8F39-138DD3EB9C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDCDE34-A95A-46CF-8F39-138DD3EB9C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7AD57B-6C2E-4DDB-8A8E-B4830412998B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7AD57B-6C2E-4DDB-8A8E-B4830412998B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7AD57B-6C2E-4DDB-8A8E-B4830412998B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7AD57B-6C2E-4DDB-8A8E-B4830412998B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BABCEB7C-212E-4C15-ADEB-C5FB3AE66037}
+	EndGlobalSection
+EndGlobal

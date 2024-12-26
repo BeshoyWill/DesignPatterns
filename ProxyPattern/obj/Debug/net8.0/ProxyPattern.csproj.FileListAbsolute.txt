@@ -1,0 +1,14 @@
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.exe
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.deps.json
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.runtimeconfig.json
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.dll
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.pdb
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.AssemblyInfo.cs
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.dll
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\obj\Debug\net8.0\refint\ProxyPattern.dll
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.pdb
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.genruntimeconfig.cache
+C:\Users\besho\source\repos\Structural_Design_Pattern\ProxyPattern\obj\Debug\net8.0\ref\ProxyPattern.dll
