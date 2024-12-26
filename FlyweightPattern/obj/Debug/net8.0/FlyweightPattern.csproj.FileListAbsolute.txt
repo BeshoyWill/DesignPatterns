@@ -1,0 +1,14 @@
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.exe
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.deps.json
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.runtimeconfig.json
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.dll
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\bin\Debug\net8.0\FlyweightPattern.pdb
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.AssemblyInfoInputs.cache
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.AssemblyInfo.cs
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.dll
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\obj\Debug\net8.0\refint\FlyweightPattern.dll
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.pdb
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\obj\Debug\net8.0\FlyweightPattern.genruntimeconfig.cache
+C:\Users\besho\source\repos\Structural_Design_Pattern\FlyweightPattern\obj\Debug\net8.0\ref\FlyweightPattern.dll
